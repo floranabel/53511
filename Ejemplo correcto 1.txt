@@ -1,0 +1,12 @@
+Ejemplo correcto 1
+estado = 1;
+output("Verificando estado del servidor");
+
+switch (estado) {
+    case 1:
+        output("Servidor activo y operando");
+    case 2:
+        output("Servidor en mantenimiento");
+    default:
+        output("Error: Estado desconocido");
+}

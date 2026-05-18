@@ -1,0 +1,4 @@
+Ejemplo correcto 2
+x = 5;
+y = 20;
+output("Mostrando valores del sistema");

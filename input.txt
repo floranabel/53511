@@ -1,0 +1,9 @@
+variable = 10;
+output("Iniciando programa");
+
+switch (variable) {
+    case 10:
+        output("La variable es diez");
+    default:
+        output("Valor no reconocido");
+}

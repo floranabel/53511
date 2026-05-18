@@ -1,0 +1,4 @@
+Ejemplo incorrecto 2
+switch (variable) {
+    case 1:
+        output("Falta la llave de cierre");
